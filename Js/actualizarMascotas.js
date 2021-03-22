@@ -12,7 +12,7 @@ var tr9 = document.createElement("td")
 const arreglo = new Array();
 
 function cargarDatos() {
-    d3.dsv(";", "../Resources/pets-citizens.csv")
+    d3.dsv(";", "Resources/pets-citizens.csv")
         .then(function(data) {
             for (var i = 0; i < data.length; i++) {
                 arreglo[i] = new Array()
@@ -38,7 +38,7 @@ function leerCsv() {
     const boton2 = document.getElementById("reinicia").disabled = false
 
     const bandera = false
-    d3.dsv(";", "../Resources/pets-citizens.csv")
+    d3.dsv(";", "Resources/pets-citizens.csv")
         .then(function(data) {
             for (var i = 0; i < data.length; i++) {
                 if (data[i].microchip == microchip) {
