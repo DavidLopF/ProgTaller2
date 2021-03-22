@@ -23,4 +23,4 @@ El siguiente proyecto tiene como objetivo profundizar en temas como JavaScript, 
 
 ### Dificultades ###
 ***
-S etuvo una difiucltad, la cual fue que a la hora de subir la página web a git pages no se podía subir desde el respositorio anteriror, por tanto nos vimos obligados a crear un nuevo repositorio que es en el que estamos subiendo, el repositorio anterior es [Repositorio](https://github.com/gitForDavidL/ProgramacionActividad2.git)
+Se tuvo una difiucltad, la cual fue que a la hora de subir la página web a git pages no se podía subir desde el respositorio anteriror, por tanto nos vimos obligados a crear un nuevo repositorio que es en el que estamos subiendo, el repositorio anterior es [Repositorio](https://github.com/gitForDavidL/ProgramacionActividad2.git)
